@@ -1,10 +1,10 @@
 {
   "name": "sahil-npx",
-  "version": "1.0.1",
+  "version": "1.4.0",
   "main": "index.js",
   "bin": {
-  "sahil": "./index.js"
-}, 
+    "sahil": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,8 +12,9 @@
   "author": "Sahil",
   "license": "ISC",
   "type": "module",
-  "description":"My personal npx card",
+  "description": "My personal npx card",
   "dependencies": {
-    "chalk": "^5.4.1"
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.0"
   }
 }
