@@ -1,9 +1,9 @@
 {
-  "name": "sahil-npx",
-  "version": "1.4.0",
+  "name": "sahil-cli",
+  "version": "1.9.4",
   "main": "index.js",
   "bin": {
-    "sahil": "index.js"
+    "sahil-cli": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
