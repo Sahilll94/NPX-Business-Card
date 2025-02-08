@@ -1,6 +1,6 @@
 {
   "name": "sahil-cli",
-  "version": "1.9.5",
+  "version": "1.9.10",
   "main": "index.js",
   "bin": {
     "sahil-cli": "index.js"
@@ -8,7 +8,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "CLI",
+    "npx-card",
+    "developer-card",
+    "sahil",
+    "command-line-tool",
+    "terminal-card",
+    "chalk",
+    "figlet",
+    "portfolio",
+    "developer-info"
+  ],
   "author": "Sahil",
   "license": "ISC",
   "type": "module",
