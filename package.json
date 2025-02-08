@@ -1,6 +1,6 @@
 {
   "name": "sahil-cli",
-  "version": "1.9.4",
+  "version": "1.9.5",
   "main": "index.js",
   "bin": {
     "sahil-cli": "index.js"
